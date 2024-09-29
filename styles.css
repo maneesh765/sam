@@ -1,0 +1,29 @@
+.boxes{
+    width: 100%;
+    height: 900px;
+    background-color: aqua;
+}
+.box{
+    display: flex;
+    justify-content: center;
+  
+}
+.table{
+    position: absolute;
+    font-size: 30px;
+    top: 200px;
+    width: 30%;
+    height: 300px;
+    background-color: rgb(244, 240, 234);
+    align-items: center;
+}
+h1{
+    font-size: 60px;
+}
+button{
+    font-size: 20px;
+}
+.upload{
+    font-size: 20px;
+    color: blue;
+}
